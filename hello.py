@@ -1,9 +1,12 @@
 __author__ = 'scottieb99'
 
 
+def greeting(msg):
+    print(msg)
+
 
 if __name__ == "__main__":
-    print("hello")
+    greeting("Hey y'all")
 
 
 
